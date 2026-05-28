@@ -28,3 +28,5 @@
 
 ## feat: set up Airflow DAGs for orchestration
 
+## feat: implement anomaly detection for metrics
+
