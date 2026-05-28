@@ -56,3 +56,5 @@
 
 ## chore: set up CI for dbt model validation
 
+## fix: incorrect join logic in revenue model
+
