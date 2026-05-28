@@ -30,3 +30,5 @@
 
 ## feat: implement anomaly detection for metrics
 
+## fix: dashboard shows incorrect date ranges
+
