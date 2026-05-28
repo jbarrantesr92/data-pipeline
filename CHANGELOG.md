@@ -40,3 +40,5 @@
 
 ## chore: upgrade Airflow to 2.8
 
+## feat: implement data catalog integration
+
