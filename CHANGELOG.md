@@ -38,3 +38,5 @@
 
 ## feat: add real-time fraud detection pipeline
 
+## chore: upgrade Airflow to 2.8
+
