@@ -10,3 +10,5 @@
 
 ## feat: create executive KPI dashboard queries
 
+## fix: duplicate rows in daily metrics table
+
