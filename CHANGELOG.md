@@ -48,3 +48,5 @@
 
 ## feat: build self-serve analytics platform
 
+## fix: schema drift breaking downstream models
+
