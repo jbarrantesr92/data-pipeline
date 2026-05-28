@@ -36,3 +36,5 @@
 
 ## refactor: restructure dbt project layout
 
+## feat: add real-time fraud detection pipeline
+
