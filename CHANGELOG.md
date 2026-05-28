@@ -14,3 +14,5 @@
 
 ## feat: set up dbt models for revenue metrics
 
+## fix: ETL job runs twice due to scheduler bug
+
