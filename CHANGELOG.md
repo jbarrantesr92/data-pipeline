@@ -42,3 +42,5 @@
 
 ## feat: implement data catalog integration
 
+## fix: backfill job fails for large date ranges
+
