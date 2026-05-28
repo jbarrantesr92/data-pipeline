@@ -6,3 +6,5 @@
 
 ## feat: implement data quality checks in ETL
 
+## chore: migrate from Redshift to BigQuery
+
