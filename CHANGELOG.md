@@ -46,3 +46,5 @@
 
 ## test: add data quality test suite
 
+## feat: build self-serve analytics platform
+
