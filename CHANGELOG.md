@@ -52,3 +52,5 @@
 
 ## perf: partition large tables by date
 
+## feat: add ML model serving infrastructure
+
