@@ -12,3 +12,5 @@
 
 ## fix: duplicate rows in daily metrics table
 
+## feat: set up dbt models for revenue metrics
+
