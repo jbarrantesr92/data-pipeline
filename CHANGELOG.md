@@ -34,3 +34,5 @@
 
 ## feat: build A/B testing framework
 
+## refactor: restructure dbt project layout
+
