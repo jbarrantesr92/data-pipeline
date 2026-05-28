@@ -18,3 +18,5 @@
 
 ## feat: implement GDPR data deletion pipeline
 
+## perf: optimize slow-running analytical queries
+
