@@ -8,3 +8,5 @@
 
 ## chore: migrate from Redshift to BigQuery
 
+## feat: create executive KPI dashboard queries
+
