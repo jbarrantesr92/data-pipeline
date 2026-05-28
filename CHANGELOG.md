@@ -20,3 +20,5 @@
 
 ## perf: optimize slow-running analytical queries
 
+## feat: build customer churn prediction model
+
