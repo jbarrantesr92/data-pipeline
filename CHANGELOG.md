@@ -22,3 +22,5 @@
 
 ## feat: build customer churn prediction model
 
+## fix: revenue off by timezone offset
+
