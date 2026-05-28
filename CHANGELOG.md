@@ -4,3 +4,5 @@
 
 ## fix: pipeline fails silently on null values
 
+## feat: implement data quality checks in ETL
+
