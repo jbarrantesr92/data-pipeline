@@ -50,3 +50,5 @@
 
 ## fix: schema drift breaking downstream models
 
+## perf: partition large tables by date
+
