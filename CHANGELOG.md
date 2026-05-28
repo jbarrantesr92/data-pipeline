@@ -54,3 +54,5 @@
 
 ## feat: add ML model serving infrastructure
 
+## chore: set up CI for dbt model validation
+
